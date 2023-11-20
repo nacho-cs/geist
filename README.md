@@ -1,4 +1,4 @@
-# nacho-cs/gieist
+# nacho-cs/geist
 
 > Load the geist font from a cdn
 
